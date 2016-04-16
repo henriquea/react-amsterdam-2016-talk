@@ -7,4 +7,4 @@ npm install
 npm run start
 ```
 
-Any issues or questions, feel free to hit me on [@healves82](https://twitter.com/healves82).
+Any issues or questions, feel free to hit me at [@healves82](https://twitter.com/healves82).
